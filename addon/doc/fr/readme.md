@@ -3,7 +3,7 @@
 * Auteurs : Rui Fontes, Rui Batista, Joseph Lee, Contributeurs de la
   communauté de NVDA
 * Télécharger [version stable][1]
-* NVDA compatibility: 2019.3 and beyond
+* Compatibilité NVDA : 2019.3 et versions ultérieures
 
 Cette extension vous permet de lire et d'activer les icônes sur la zone de
 notification ou la barre des tâches dans une liste déroulante pour faciliter
@@ -17,28 +17,29 @@ Notez que vous pouvez accéder à la zone de notification système Windows dans
 n'importe quel logiciel de lecteur d'écran en utilisant Windows+B, et à la
 barre des tâches système en appuyant sur Windows+T. Cette extension est
 uniquement utile pour rendre la transition depuis JAWS pour Windows plus
-fluide et pour éviter sertaines bules d'aides qui risquent de s’afficher
+fluide et pour éviter certaines bulles d'aides qui risquent de s’afficher
 lorsque vous parcourez la zone de notification système Windows en utilisant
 le clavier Windows.
 
-## Changes for 4.0 2020-01-03 ##
+## Changements pour la version 4.0 2020-01-03 ##
 
-* Requires NVDA 2019.3 or later.
-* No more support for Windows versions earlier than Windows 7 Service Pack
-  1.
-* Add-on has been renamed to "SysTrayList".
-* Donation request dialog will no longer appear when installing or updating
-  the add-on.
+* Nécessite NVDA 2019.3 ou version ultérieure.
+* Les versions de Windows antérieures à Windows 7 Service Pack 1 ne sont
+  plus prise en charge.
+* L'extension a été renommée "SysTrayList".
+* La boîte de dialogue de demande de don n'apparaîtra plus lors de
+  l'installation ou de la mise à jour de l'extension.
 
-## Changes for 3.2 2018-12-24 ##
+## Changements pour la version 3.2 2018-12-24 ##
 
-* More code changes to support Python 3.
+* D'autres modifications de code pour prendre en charge Python 3.
 
-## Changes for 3.1 2018-11-24 ##
+## Changements pour la version 3.1 2018-11-24 ##
 
-* Internal changes to support future NVDA releases.
+* Modifications internes pour prendre en charge les futures versions de
+  NVDA.
 
-## Changes for 3.0 2018-10-25 ##
+## Changements pour la version 3.0 2018-10-25 ##
 
 La prise en charge des versions de Windows antérieures à Windows 7 Service
 Pack 1 prendra fin en 2019.
@@ -64,10 +65,10 @@ Pack 1 prendra fin en 2019.
 * Requière NVDA 2012.3beta2 ou supérieur.
 * Ajout de la demande de don à la procédure d'installation
 * Implémentation du support de la barre des tâches
-* Nouvelles traductions : Arabe, Bulgard, Néerlandais, Finnois, Galicien,
-  Grecque, Hongrois, Italien, Japonais, Koréen, Népalais, Norvégien,
-  Polonais, Portugais Brésilien, Russe, Slovak, Tamoul, Chinois traditionnel
-  Hong Kong.
+* Nouvelles traductions : Arabe, Bulgare, Néerlandais, Finnois, Galicien,
+  Grecque, Hongrois, Italien, Japonais, Coréen, Népalais, Norvégien,
+  Polonais, Portugais Brésilien, Russe, Slovaque, Tamoul, Chinois
+  traditionnel  Hong Kong.
 
 ## Changements pour la version 1.3 - 25/05/2012 ##
 
