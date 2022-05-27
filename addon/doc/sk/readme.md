@@ -2,7 +2,7 @@
 
 * Autori: Rui Fontes, Rui Batista, Joseph Lee a ďalší
 * Stiahnuť [stabilnú verziu][1]
-* Funguje s NVDA od verzie 2019.3
+* NVDA compatibility: 2019.3 and beyond
 
 Môžete zobraziť položky na systémovej lište a na panely úloh v jednoduchom
 dialógu. V zozname potom môžete položku aktivovať. Skratkou NVDA+F11
@@ -15,34 +15,34 @@ windows+t. Tento doplnok je užitočný najmä pre tých, ktorí doposiaľ
 používali JAWS a takisto na zabránenie zobrazenia bublín, ktoré vyskakujú
 pri použití štandardnej navigácie Windows.
 
-## Verzia 4.0 2020-01-03 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Vyžaduje NVDA od verzie 2019.3.
 * Podporuje len Windows od vezie 7 Servicepack 1.
 * Zmenený anglický názov doplnku.
 * Odstránená žiadosť o príspevok.
 
-## Verzia 3.2 2018-12-24 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * Upravený kód pre podporu Python 3.
 
-## Verzia 3.1 2018-11-24 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Interné zmeny pre podporu budúcich vydaní NVDA.
 
-## Verzia 3.0 2018-10-25 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 Podpora pre staršie systémy Windows bude ukončená  v roku 2019.
 
 * Doplnok kompatibilný s prostredím Python 3.
 
-## Verzia 2.0 2017-05-20 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * Dialógy sú zobrazené v strede obrazovky.
 * Opravené problémy s používateľským rozhraním.
 * Nové a aktualizované preklady.
 
-## Verzia 1.5 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * opravené klikanie ľavým a pravým tlačidlom myši.
 * Pomocník k doplnku je dostupný zo správcu doplnkov.

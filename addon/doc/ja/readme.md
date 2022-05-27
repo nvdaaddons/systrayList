@@ -8,7 +8,7 @@
 
 どのスクリーンリーダーソフトでも、WindowsのシステムトレイにはWindows+B、タスクバーにはWindows+Tでアクセス出来ます。このプラグインは、WindowsのJAWSからの切り替えを円滑にし、システムトレイをキーボード操作で回る場合にツールチップの表示を避けることのみに有用です。
 
-## Changes for 4.0 2020-01-03 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Requires NVDA 2019.3 or later.
 * No more support for Windows versions earlier than Windows 7 Service Pack
@@ -17,27 +17,27 @@
 * Donation request dialog will no longer appear when installing or updating
   the add-on.
 
-## Changes for 3.2 2018-12-24 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * More code changes to support Python 3.
 
-## Changes for 3.1 2018-11-24 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Internal changes to support future NVDA releases.
 
-## Changes for 3.0 2018-10-25 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 Windows7サービスパック1より前のWindowsのリリースについてのサポートが2019年中に終了します。
 
 * アドオンがPython3互換になりました。
 
-## 2.0での変更　- 2017-05-20 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * Systray/Taskbarダイアログが画面中央に表示されるようになりました。
 * ユーザーインターフェースの問題を修正しました。
 * 新しい更新された翻訳。
 
-## 1.5 での変更 - 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * 左クリック、右クリックのアクションを修正しました。
 * アドオン ヘルプはアドオン マネージャから利用できます。

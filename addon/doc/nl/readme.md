@@ -16,7 +16,7 @@ plugin is only useful to make the transition from JAWS for Windows smoother
 and to avoid some tooltips that may pop-up when cycling through the system
 tray with the windows keyboard means.
 
-## Changes for 4.0 2020-01-03 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Requires NVDA 2019.3 or later.
 * No more support for Windows versions earlier than Windows 7 Service Pack
@@ -25,28 +25,28 @@ tray with the windows keyboard means.
 * Donation request dialog will no longer appear when installing or updating
   the add-on.
 
-## Changes for 3.2 2018-12-24 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * More code changes to support Python 3.
 
-## Changes for 3.1 2018-11-24 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Internal changes to support future NVDA releases.
 
-## Changes for 3.0 2018-10-25 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 Support for Windows releases earlier than Windows 7 Service Pack 1 will end
 in 2019.
 
 * Add-on is Python 3 compatible.
 
-## Changes for 2.0 2017-05-20 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * Systray/taskbar dialog is now centered on screen.
 * Fixed various user interface issues.
 * New and updated translations.
 
-## Changes for 1.5 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * De actie voor links/rechhts klikken is gecorrigeerd.
 * Add-on help is now available from add-ons manger.

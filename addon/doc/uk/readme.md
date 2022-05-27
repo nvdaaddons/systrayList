@@ -19,7 +19,7 @@ Windows+T. Цей додаток корисний лише для того, що
 з JAWS та уникнути деяких підказок, які можуть спливати під час переміщення
 системною панеллю за допомогою клавіатури.
 
-## Changes for 4.0 2020-01-03 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Requires NVDA 2019.3 or later.
 * No more support for Windows versions earlier than Windows 7 Service Pack
@@ -28,28 +28,28 @@ Windows+T. Цей додаток корисний лише для того, що
 * Donation request dialog will no longer appear when installing or updating
   the add-on.
 
-## Changes for 3.2 2018-12-24 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * More code changes to support Python 3.
 
-## Changes for 3.1 2018-11-24 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Internal changes to support future NVDA releases.
 
-## Changes for 3.0 2018-10-25 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 Підтримка версій Windows, старіших за Windows 7 Service Pack 1, завершится у
 2019 році
 
 * Додаток став сумісним з Python 3.
 
-## Зміни у версії 2.0 2017-05-20 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * Діалог системної панелі чи панелі завдань тепер відцентровано на екрані.
 * Виправлено низку інших проблем у інтерфейсі.
 * Нові й оновлені переклади.
 
-## Зміни у версії 1.5 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * Скоректовано дію лівого/правого кліка.
 * Довідка додатка тепер доступна у менеджері додатків.

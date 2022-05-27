@@ -44,7 +44,7 @@ Tuki Windows 7 Service Pack 1:tä vanhemmille versioille päättyy vuonna 2019.
 * Korjattu useita käyttöliittymän ongelmia.
 * Uusia ja päivitettyjä käännöksiä.
 
-## Muutokset versiossa 1.5, 1.2.2015 ##
+## Muutokset versiossa 1.5, p.k.2015 ##
 
 * Korjattu vasemman/oikean hiiren painikkeen napsautuksen toiminto.
 * Ohje on käytettävissä lisäosien hallinnasta.

@@ -2,7 +2,7 @@
 
 * Autores: Rui Fontes, Rui Batista, Joseph Lee, NVDA Community contributors
 * Baixar [versão estável][1]
-* Compatibilidade com NVDA: 2017.3 a 2019.2
+* NVDA compatibility: 2019.3 and beyond
 
 Este extra permite que leia e active os ícones existentes na barra do
 sistema ou na barra de tarefas, dentro de uma caixa de listagem, para
@@ -15,7 +15,7 @@ execução.
 Observe que pode aceder à barra do sistema do Windows, em qualquer software,
 usando o Windows+B e ir para a barra de tarefas pressionando Windows+T.
 
-## Alterações para 4.0 2020-01-03 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Requer NVDA 2019.3 ou superiores.
 * Não há mais suporte para versões anteriores ao Service Pack 1 do Windows
@@ -24,29 +24,29 @@ usando o Windows+B e ir para a barra de tarefas pressionando Windows+T.
 * O diálogo de pedido de doação deixará de aparecer aquando da instalação ou
   actualização do extra.
 
-## Alterações para 3.2 2018-12-24 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * Mais alterações de código para suportar o Python 3.
 
-## Alterações para 3.1 2018-11-24 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Alterações internas para suportar os futuros lançamentos do NVDA.
 
-## Alterações para 3,0 2018-10-25 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 O suporte para as versões antriors ao windows7, service pack 1, termina em
 2019.
 
 * O extra é compatível com Python 3.
 
-## Mudanças para 2.0 2017-05-20 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * As caixas de diálogo da barra de tarefas e da barra de sistema passam a
   estar centradas no ecrã.
 * Corrigidos vários problemas na interface do utilizador.
 * Traduções novas e actualizadas.
 
-## Alterações para 1.5 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * Corrigidas as acções dos botões esquerdo e direito do rato.
 * A ajuda do extra passou a estar disponível a partir do gestor de extras.

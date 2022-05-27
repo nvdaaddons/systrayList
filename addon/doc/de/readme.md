@@ -19,7 +19,7 @@ Windows reibungsloser zu gestalten und um einige QuickInfos zu vermeiden,
 die beim Blättern durch die Taskleiste mit den Windows-Tastaturmitteln
 erscheinen können.
 
-## Änderungen in 4.0 (03.01.2020) ##
+## Änderungen in 4.0 - 03.01.2020 ##
 
 * Benötigt NVDA 2019.3 oder neuer.
 * Keine Unterstützung mehr für ältere Windows-Versionen (Windows 7 Service
@@ -28,28 +28,28 @@ erscheinen können.
 * Das Dialogfeld für die Spendenaufforderung wird nicht mehr angezeigt, wenn
   die Erweiterung installiert oder aktualisiert wird.
 
-## Änderungen in 3.2 (24.12.2018) ##
+## Änderungen in 3.2 - 24.12.2018 ##
 
 * Weitere Code-Anpassungen zur Unterstützung von Python 3.
 
-## Änderungen in 3.1 (24.11.2018) ##
+## Änderungen in 3.1 - 24.11.2018 ##
 
 * Interne Änderungen zur Unterstützung zukünftiger NVDA-Releases.
 
-## Änderungen in 3.0 (25.10.2018) ##
+## Änderungen in 3.0 - 25.10.2018 ##
 
 Die Unterstützung für Windows-Versionen vor Windows 7 Service Pack 1 endet
 2019.
 
 * Die Erweiterung ist kompatibel mit Python 3.
 
-## Änderungen in 2.0 (20.05.2017) ##
+## Änderungen in 2.0 - 20.05.2017 ##
 
 * Der Dialog Infobereich/Taskleiste ist nun auf dem Bildschirm zentriert.
 * Verschiedene Probleme mit der Benutzeroberfläche wurden behoben.
 * Neue und aktualisierte Übersetzungen.
 
-## Änderungen in 1.5 (2015) ##
+## Änderungen in 1.5 - 2015 ##
 
 * Funktion für Links- bzw. Rechtsklick wurde korrigiert.
 * Hilfe zur Erweiterung ist nun über den Dialog Erweiterungen verwalten

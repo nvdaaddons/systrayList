@@ -2,7 +2,7 @@
 
 * Autori: Rui Fontes, Rui Batista, suradnici NVDA zajednice
 * Preuzmi [stabilnu verziju][1]
-* NVDA kompatibilnost: 2019.3 i novija
+* NVDA compatibility: 2019.3 and beyond
 
 Dodatak omogućuje čitanje i aktiviranje ikona na traci sustava ili na
 programskoj traci, unutar popisnog okvira, te olakšava pristup i interakciju
@@ -16,7 +16,7 @@ dodatak koristan samo kako bi se prijelaz s JAWS-a za Windows učinio glađim
 te kako bi se izbjegli neki savjetni oblačići, koji se mogu pojaviti
 prilikom kretanja kroz traku sustava pomoću Windows tipkovnice.
 
-## Promjene u verziji 4.0 – 2017-05-20 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Zahtijeva NVDA 2019.3 ili noviju verziju.
 * Više se ne podražavaju Windows izdanja prije Windows 7 Service Pack 1.
@@ -24,29 +24,29 @@ prilikom kretanja kroz traku sustava pomoću Windows tipkovnice.
 * Dijalog za zahtjev za donacijom više se neće pojavljivati prilikom
   instaliranja ili nadogradnji dodatka.
 
-## Promjene u verziji 3.2 – 2018-12-24 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * Daljnje promjene u kodu radi bolje podrške za Python 3.
 
-## Promjene u verziji 3.1 – 2018-11-24 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Unutarnje promjene, kako bi se podržala buduća NVDA izdanja.
 
-## Promjene u verziji 3.0 – 2018-10-27 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 Podrška za Windows izdanja prije Windows 7 Service Pack 1 završit će krajem
 2019. godine.
 
 * Dodatak je kompatibilan s Python 3.
 
-## Promjene u verziji 2.0 – 2017-05-20 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * Dijaloški okvir trake sustava ili programske trake je sada centriran na
   ekranu.
 * Ispravljeni su različiti problemi s korisničkim sučeljem.
 * Novi i aktualizirani prijevodi.
 
-## Promjene u verziji 1.5 – 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * Ispravljena radnja lijevog ili desnog klika.
 * Pomoć dodatka dostupna je u upravljaču dodataka.

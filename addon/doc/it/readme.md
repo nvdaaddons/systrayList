@@ -3,7 +3,7 @@
 * Autori: Rui Fontes, Rui Batista, Joseph Lee, collaboratori della Comunità
   NVDA
 * Scarica la [versione stabile][1]
-* Compatibilità con NVDA: versione 2019.3 e successive
+* NVDA compatibility: 2019.3 and beyond
 
 Questo componente aggiuntivo rende possibile la lettura e l'attivazione
 delle icone del System Tray o della barra delle applicazioni  tramite una
@@ -20,7 +20,7 @@ solo a semplificare la transizione da JAWS per Windows, oltre a permettere
 di evitare i suggerimenti che appaiono quando si naviga nelle barre di
 sistema di Windows.
 
-## Novità nella versione 4.0, 03/01/2020 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Richiede NVDA 2019.3 o superiore.
 * Cessato il supporto per le versioni di Windows precedenti a Windows 7
@@ -29,29 +29,29 @@ sistema di Windows.
 * La finestra con richiesta di donazione non apparirà più quando si installa
   o si aggiorna l'add-on.
 
-## Novità nella versione 3.2, 24/12/2018 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * Ulteriori modifiche al codice per supportare Python 3.
 
-## Novità nella versione 3.1, 24/11/2018 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Modifiche interne per supportare le future versioni di NVDA.
 
-## Novità nella versione 3.0 25/10/2018 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 Il supporto per le versioni di Windows precedenti a Windows 7 Service Pack 1
 si concluderà nel 2019.
 
 * L'add-on è compatibile con Python 3.
 
-## Novità nella versione 2.0, 20/05/2017 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * La finestra di dialogo della system tray o della barra delle applicazioni
   è ora al centro dello schermo.
 * Risolti numerosi problemi all'interfaccia utente.
 * Traduzioni nuove ed aggiornate.
 
-## Novità nella versione 1.5, 2015 ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * Corrette le azioni di click col pulsante sinistro o destro del mouse.
 * E' disponibile l'aiuto su questo componente, raggiungibile dal menu

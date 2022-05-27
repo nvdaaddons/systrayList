@@ -3,7 +3,7 @@
 * Tác giả: Rui Fontes, Rui Batista, Joseph Lee, các cộng tác viên của cộng
   đồng NVDA
 * Tải về [phiên bản chính thức][1]
-* NVDA tương thích: 2019.3 trở lên
+* NVDA compatibility: 2019.3 and beyond
 
 Add-on này cho phép bạn xem và kích hoạt các biểu tượng trên khay hệ thống
 (system tray) hay thanh tác vụ (task bar), trong một danh sách, giúp dễ dàng
@@ -17,7 +17,7 @@ việc chuyển từ JAWS for Windows trở nên trôi chảy hơn và để ng�
 thông báo dạng tooltips có thể hiển thị khi di chuyển trong system tray bằng
 phím lệnh của Windows.
 
-## Các thay đổi cho phiên bản 4.0 03-01-2020 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Yêu cầu NVDA 2019.3 trở lên.
 * Không còn hỗ trợ các bản Windows cũ hơn Windows 7 Service Pack 1.
@@ -25,28 +25,28 @@ phím lệnh của Windows.
 * Hộp thoại yêu cầu tài trợ sẽ không còn xuất hiện khi cài đặt hay cập nhật
   add-on.
 
-## Các thay đổi cho phiên bản 3.2 24-12-2018 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * Nhiều thay đổi mã nguồn để hỗ trợ Python 3.
 
-## Các thay đổi cho phiên bản 3.1 24-11-2018 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Nhiều thay đổi bên trong để hỗ trợ các bản phát hành NVDA trong tương lai.
 
-## Changes for 3.0 25-10-2018 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 Sẽ ngưng hỗ trợ các bản Windows cũ hơn Windows 7 Service Pack 1 vào năm
 2019.
 
 * Add-on đã tương thích với Python 3.
 
-## Các thay đổi cho phiên bản 2.0 20-05-2017 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * Các hộp thoại Systray/taskbar giờ đã được đặt ở chính giữa màn hình.
 * Sửa nhiều lỗi liên quan đến giao diện người dùng.
 * Thêm mới và cập nhật các bản phiên dịch.
 
-## Các thay đổi cho phiên bản 1.5 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * Hoạt động bấm chuột trái / phải đã chính xác.
 * Đã có trợ giúp Add-on trong trình quản lý Add-on.

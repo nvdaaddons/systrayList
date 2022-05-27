@@ -17,7 +17,7 @@ ecran folosind comanda rapidă windows+b, și bara de activități apăsând tab
 după butonul start. Acest supliment este util doar pentru a face trecerea de
 la JAWS pentru Windows lin și pentru a evita unele tipuri de unelte .
 
-## Changes for 4.0 2020-01-03 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Requires NVDA 2019.3 or later.
 * No more support for Windows versions earlier than Windows 7 Service Pack
@@ -26,29 +26,29 @@ la JAWS pentru Windows lin și pentru a evita unele tipuri de unelte .
 * Donation request dialog will no longer appear when installing or updating
   the add-on.
 
-## Changes for 3.2 2018-12-24 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * More code changes to support Python 3.
 
-## Changes for 3.1 2018-11-24 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Internal changes to support future NVDA releases.
 
-## Changes for 3.0 2018-10-25 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 Suportul pentru versiunile de Windows mai vechi decât Windows 7 Service Pack
 1 va lua sfârșit în 2019.
 
 * Suplimentul e compatibil cu Python 3.
 
-## Modificări aduse în versiunea 2.0, 20 mai 2017 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * Dialogul Systray sau al barei de activități este acum în centrul
   ecranului.
 * S-au rezolvat diferite probleme ale interfeței utilizatorului.
 * Traduceri noi și actualizate.
 
-## Modificări aduse în versiunea 1.5 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * S-a corectat acțiunea click stânga/dreapta.
 * Ajutorul suplimentului este disponibil în managerul de suplimente.

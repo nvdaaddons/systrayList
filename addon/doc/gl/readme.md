@@ -3,7 +3,7 @@
 * Autores: Rui Fontes, Rui Batista , Joseph Lee, Colaboradores da Comunidade
   de NVDA
 * Descargar [versión estable][1]
-* Compatibilidade con NVDA: 2019.3 en diante
+* NVDA compatibility: 2019.3 and beyond
 
 Este complemento permíteche ler e activar iconas na bandexa do sistema ou na
 barra de tarefas, dentro dunha caixa de lista, para un acceso e interacción
@@ -19,7 +19,7 @@ transición máis sinxela dende JAWS for Windows e evitar algúns consellos que
 poderán despregarse cando se percorre pola bandexa do sistema co teclado de
 Windows.
 
-## Cambios para 4.0 2020-01-03 ##
+## Changes for 4.0 - 2020-01-03 ##
 
 * Require NVDA 2019.3 ou posterior.
 * Xa non se soportan versións de windows anteriores a Windows 7 Service Pack
@@ -28,29 +28,29 @@ Windows.
 * O diálogo de solicitude de donación xa non aparecerá ao instalar ou
   actualizar o complemento.
 
-## Cambios para 3.2 2018-12-24 ##
+## Changes for 3.2 - 2018-12-24 ##
 
 * Máis trocos de código para soportar Python 3.
 
-## Cambios para 3.1 2018-11-24 ##
+## Changes for 3.1 - 2018-11-24 ##
 
 * Trocos internos para soportar versións futuras de NVDA.
 
-## Cambios para 3.0 2018-10-25 ##
+## Changes for 3.0 - 2018-10-25 ##
 
 O soporte para versións de Windows anteriores a Windows 7 Service Pack 1
 rematará en 2019.
 
 * O complemento é compatible con Python 3.
 
-## Cambios para 2.0 2017-05-20 ##
+## Changes for 2.0 - 2017-05-20 ##
 
 * O diálogo Bandexa do systema/barra de tarefas agora está centrado na
   pantalla.
 * Correxidos varios problemas da interfaz do usuario.
 * Traducións novas e actualizacións.
 
-## Cambios para 1.5 2015-mm-dd ##
+## Changes for 1.5 - 2015-mm-dd ##
 
 * Correxida a acción do clic exquerdo e dereito.
 * A axuda do complemento está dispoñible dende o Administrador de
