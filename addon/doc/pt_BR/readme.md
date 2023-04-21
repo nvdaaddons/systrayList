@@ -87,4 +87,4 @@ terminará em 2019.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=st
+[1]: https://www.nvaccess.org/addonStore/legacy?file=systrayList

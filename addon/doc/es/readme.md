@@ -85,4 +85,4 @@ El soporte para versiones de Windows inferiores a Windows 7 con Service Pack
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=st
+[1]: https://www.nvaccess.org/addonStore/legacy?file=systrayList

@@ -83,4 +83,4 @@ Sẽ ngưng hỗ trợ các bản Windows cũ hơn Windows 7 Service Pack 1 vào
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=st
+[1]: https://www.nvaccess.org/addonStore/legacy?file=systrayList

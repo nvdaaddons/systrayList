@@ -82,4 +82,4 @@ Podrška za Windows izdanja prije Windows 7 Service Pack 1 završit će krajem
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=st
+[1]: https://www.nvaccess.org/addonStore/legacy?file=systrayList

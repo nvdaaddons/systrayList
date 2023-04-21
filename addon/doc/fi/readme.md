@@ -79,4 +79,4 @@ Tuki Windows 7 Service Pack 1:tä vanhemmille versioille päättyy vuonna 2019.
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=st
+[1]: https://www.nvaccess.org/addonStore/legacy?file=systrayList

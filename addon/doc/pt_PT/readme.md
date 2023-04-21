@@ -81,4 +81,4 @@ O suporte para as versões antriors ao windows7, service pack 1, termina em
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=st
+[1]: https://www.nvaccess.org/addonStore/legacy?file=systrayList
