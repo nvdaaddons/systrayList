@@ -3,7 +3,7 @@
 * Auteurs : Rui Fontes, Rui Batista, Joseph Lee, Contributeurs de la
   communauté de NVDA
 * Télécharger [version stable][1]
-* NVDA compatibility: 2019.3 and beyond
+* Compatibilité NVDA : 2019.3 et au-delà
 
 Cette extension vous permet de lire et d'activer les icônes sur la zone de
 notification ou la barre des tâches dans une liste déroulante pour faciliter
@@ -21,7 +21,7 @@ fluide et pour éviter certaines bulles d'aides qui risquent de s’afficher
 lorsque vous parcourez la zone de notification système Windows en utilisant
 le clavier Windows.
 
-## Changes for 4.0 - 2020-01-03 ##
+## Changements pour la version 4.0 - 2020-01-03 ##
 
 * Nécessite NVDA 2019.3 ou version ultérieure.
 * Les versions de Windows antérieures à Windows 7 Service Pack 1 ne sont
@@ -30,30 +30,30 @@ le clavier Windows.
 * La boîte de dialogue de demande de don n'apparaîtra plus lors de
   l'installation ou de la mise à jour de l'extension.
 
-## Changes for 3.2 - 2018-12-24 ##
+## Changements pour la version 3.2 - 2018-12-24 ##
 
 * D'autres modifications de code pour prendre en charge Python 3.
 
-## Changes for 3.1 - 2018-11-24 ##
+## Changements pour la version 3.1 - 2018-11-24 ##
 
 * Modifications internes pour prendre en charge les futures versions de
   NVDA.
 
-## Changes for 3.0 - 2018-10-25 ##
+## Changements pour la version 3.0 - 2018-10-25 ##
 
 La prise en charge des versions de Windows antérieures à Windows 7 Service
 Pack 1 prendra fin en 2019.
 
 * L'extension est compatible Python 3.
 
-## Changes for 2.0 - 2017-05-20 ##
+## Changements pour la version 2.0 - 2017-05-20 ##
 
 * La boîte de dialogue Zone de Notification / Barre des tâches est
   maintenant centrée sur l'écran.
 * Correction de différents problèmes dans l'interface utilisateur.
 * Nouvelles traductions et mises à jour.
 
-## Changes for 1.5 - 2015-mm-dd ##
+## Changements pour la version 1.5 - 2015-mm-dd ##
 
 * Correction de l'action clique gauche/droit.
 * L'aide de l'extension est maintenant disponible à partir du Gestionnaire
