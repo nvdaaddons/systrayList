@@ -1,40 +1,59 @@
 # systrayList #
 
-*   Authors: Rui Fontes, Rui Batista, Joseph Lee, NVDA Community
-    contributors
-*   Download [stable version][1]
-*   NVDA compatibility: 2017.3 to 2019.3
+* Yazarlar: Rui Fontes, Rui Batista, Joseph Lee, NVDA Topluluğuna katkıda
+  bulunanlar
+* [Kararlı sürümü indirin][1]
+* NVDA uyumluluğu: 2019.3 ve sonrası
 
-This add-on allows you to read and activate icons on the system tray or the
-task bar, within a list box, for easy access and interaction to those
-items. With the add-on installed, press NVDA+f11 once for this dialog to
-pop-up with system tray elements, and press twice to display task bar
-elements, which are the currently running applications.
+Bu eklenti, sistem tepsisindeki veya görev çubuğundaki simgeleri bir liste
+kutusu içinde okuyup etkinleştirmenize olanak tanıyarak bu öğelere kolay
+erişim ve etkileşim sağlar. Eklenti yüklüyken, bu iletişim kutusunun sistem
+tepsisi öğeleriyle açılması için NVDA+f11 tuşlarına bir kez basın ve
+çalışmakta olan uygulamalar olan görev çubuğu öğelerini görüntülemek için
+iki kez basın.
 
-Note that you can access the windows system tray in any screen reader
-software using the Windows+B, and the task bar by pressing Windows+T. This
-plugin is only useful to make the transition from JAWS for Windows smoother
-and to avoid some tooltips that may pop-up when cycling through the system
-tray with the windows keyboard means.
+Windows sistem tepsisine Windows+B tuşlarını kullanarak herhangi bir ekran
+okuyucu yazılımında ve görev çubuğunda Windows+T tuşlarına basarak
+erişebileceğinizi unutmayın. Bu eklenti yalnızca Windows için JAWS'tan
+geçişi daha sorunsuz hale getirmek ve Windows klavye araçlarıyla sistem
+tepsisinde gezinirken ortaya çıkabilecek bazı araç ipuçlarından kaçınmak
+için kullanışlıdır.
 
-## Changes for 3.0 2018-10-27 ##
+## 4.0 için değişiklikler - 2020-01-03 ##
 
-Support for Windows releases earlier than Windows 7 Service Pack 1 will end
-in 2019.
+* NVDA 2019.3 veya sonraki sürümünü gerektirir.
+* Windows 7 Service Pack 1'den önceki Windows sürümleri artık
+  desteklenmiyor.
+* Eklentinin adı "SysTrayList" olarak değiştirildi.
+* Eklentiyi yüklerken veya güncellerken bağış isteği iletişim kutusu artık
+  görünmeyecek.
 
-* Add-on is Python 3 compatible.
+## 3.2 için değişiklikler - 2018-12-24 ##
 
-## Changes for 2.0 2017-05-20 ##
+* Python 3'ü desteklemek için daha fazla kod değişikliği.
 
-* Systray/taskbar dialog is now centered on screen.
-* Fixed various user interface issues.
-* New and updated translations.
+## 3.1 için değişiklikler - 2018-11-24 ##
 
-## Changes for 1.5 2015-mm-dd ##
+* Gelecekteki NVDA sürümlerini desteklemek için dahili değişiklikler.
+
+## 3.0 için değişiklikler - 2018-10-25 ##
+
+Windows 7 Service Pack 1'den önceki Windows sürümleri için destek 2019'da
+sona erecektir.
+
+* Eklenti Python 3 uyumludur.
+
+## 2.0 için değişiklikler - 2017-05-20 ##
+
+* Systray/görev çubuğu iletişim kutusu artık ekranda ortalanmıştır.
+* Çeşitli kullanıcı arayüz sorunları düzeltildi.
+* Yeni ve güncellenmiş çeviriler.
+
+## 1.5 için değişiklikler - 2015-mm-dd ##
 
 * Sağ / sol klik eylemi düzeltildi.
-* Add-on help is now available from add-ons manger.
-* Translation updates.
+* Eklenti yardımı artık eklenti yöneticisinden alınabilir.
+* Çeviri güncellemeleri.
 
 ## 1.4 için değişiklikler - 2013-01-19 ##
 
@@ -53,19 +72,19 @@ in 2019.
 * Eklenti paketi olarak derlendi
 * Fransızca ve  Türkçe çeviriler.
 
-## 1.2 - 2012-04.25 ##
+## 1.2  için değişiklikler- 2012-04.25 ##
 
 * İspanyolca ve Almanca çeviriler. Katkıda bulunan herkese teşekkürler.
 
-## 1.1 - 2012-03-20 ##
+## 1.1  için değişiklikler- 2012-03-20 ##
 
 * Kullanılan dille ilgili çeviri yapılmamışsa eklentinin çalışmasını
   engelleyen bir sorun düzeltildi
 
-## 1.0 - 2012-03-19 ##
+## 1.0 için değişiklikler - 2012-03-19 ##
 
 * İlk sürüm
 
 [[!tag stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=st
+[1]: https://www.nvaccess.org/addonStore/legacy?file=systrayList
