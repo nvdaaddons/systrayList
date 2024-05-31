@@ -1,4 +1,4 @@
-# systrayList #
+# Sistem Tepsisi Listesi #
 
 * Yazarlar: Rui Fontes, Rui Batista, Joseph Lee, NVDA Topluluğuna katkıda
   bulunanlar
