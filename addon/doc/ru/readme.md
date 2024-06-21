@@ -2,7 +2,7 @@
 
 * Авторы: Rui Fontes, Rui Batista, Joseph Lee, Участники сообщества NVDA
 * Загрузить [стабильную версию][1]
-* NVDA compatibility: 2019.3 and beyond
+* Совместимость с NVDA: 2019.3 и выше
 
 Это дополнение позволит читать и активировать значки области уведомлений или
 панели задач, предоставляя их список для удобного с ними
@@ -10,35 +10,36 @@
 вызова окна со списком значков области уведомлений или дважды быстро для
 вызова списка значков панели задач с запущенными приложениями.
 
-Note that you can access the windows system tray in any screen reader
-software using the Windows+B, and the task bar by pressing Windows+T. This
-plugin is only useful to make the transition from JAWS for Windows smoother
-and to avoid some tooltips that may pop-up when cycling through the system
-tray with the windows keyboard means.
+Обратите внимание, что вы можете получить доступ к системному трею Windows в
+любом программном обеспечении для чтения с экрана, нажав Windows+B, а к
+панели задач - нажав Windows+T. Этот плагин полезен только для того, чтобы
+сделать переход от JAWS к Windows более плавным и избежать некоторых
+всплывающих подсказок, которые могут появляться при циклическом перемещении
+по системному трею с помощью клавиатуры Windows.
 
 ## Изменения в версии 4.0 2020-01-03 ##
 
-* Requires NVDA 2019.3 or later.
-* No more support for Windows versions earlier than Windows 7 Service Pack
-  1.
-* Add-on has been renamed to "SysTrayList".
-* Donation request dialog will no longer appear when installing or updating
-  the add-on.
+* Требуется NVDA 2019.3 или выше.
+* Более ранние версии Windows, чем Windows 7 с пакетом обновления 1, больше
+  не поддерживаются.
+* Дополнение было переименовано в "SysTrayList".
+* Диалог запроса пожертвования больше не будет отображаться при установке
+  или обновлении дополнения.
 
 ## Изменения в версии 3.2 2018-12-24 ##
 
-* More code changes to support Python 3.
+* Дополнительные изменения в коде для поддержки Python 3.
 
 ## Изменения в версии 3.1 2018-11-24 ##
 
-* Internal changes to support future NVDA releases.
+* Внутренние изменения для поддержки будущих выпусков NVDA.
 
 ## Изменения в версии 3.0 2018-10-25 ##
 
-Support for Windows releases earlier than Windows 7 Service Pack 1 will end
-in 2019.
+Поддержка версий Windows, более ранних, чем Windows 7 с пакетом обновления
+1, завершится в 2019 году.
 
-* Add-on is Python 3 compatible.
+* Дополнение совместимо с Python 3.
 
 ## Изменения в версии 2.0 2017-05-20 ##
 
@@ -69,7 +70,7 @@ in 2019.
 
 ## Изменения в версии 1.2 - 2012-04.25 ##
 
-* Испанский и немецкий переводы. Спасибо всем, кто поучавствовал.
+* Переводы на испанский и немецкий. Спасибо всем, кто внес свой вклад.
 
 ## Изменения в версии 1.1 - 2012-03-20 ##
 
@@ -78,7 +79,7 @@ in 2019.
 
 ## Изменения в версии 1.0 - 2012-03-19 ##
 
-* Первый публичный релиз
+* Первоначальный выпуск
 
 [[!tag stable]]
 
