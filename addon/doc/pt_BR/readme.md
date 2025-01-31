@@ -3,7 +3,8 @@
 * Autores: Rui Fontes, Rui Batista, Joseph Lee, colaboradores da comunidade
   do NVDA
 * Baixe a [versão estável][1]
-* NVDA compatibility: 2019.3 and beyond
+* Compatibilidade com NVDA: 2019.3 e posteriorCompatibilidade com NVDA:
+  2019.3 e além
 
 Este complemento possibilita ler e ativar ícones da área de notificação
 (bandeja do sistema) ou da barra de tarefas, numa caixa de lista para um
@@ -20,7 +21,7 @@ transição do JAWS para Windows mais suave e para evitar algumas dicas de
 ferramentas que podem aparecer ao percorrer a área de notificação do Windows
 por meio do teclado.
 
-## Changes for 4.0 - 2020-01-03 ##
+## Alterações para a versão 4.0 - 2020-01-03 ##
 
 * Requer NVDA 2019.3 ou superior.
 * Não há mais suporte para versões do Windows anteriores ao Windows 7
@@ -29,29 +30,29 @@ por meio do teclado.
 * O diálogo de solicitação de doação não aparecerá mais ao instalar ou
   atualizar o complemento.
 
-## Changes for 3.2 - 2018-12-24 ##
+## Alterações para a versão 3.2 - 2018-12-24 ##
 
 * Mais alterações de código para dar suporte ao Python 3.
 
-## Changes for 3.1 - 2018-11-24 ##
+## Alterações para a versão 3.1 - 2018-11-24 ##
 
 * Alterações internas para dar suporte a versões futuras do NVDA.
 
-## Changes for 3.0 - 2018-10-25 ##
+## Alterações para a versão 3.0 - 2018-10-25 ##
 
 O suporte para versões do Windows anteriores ao Windows 7 Service Pack 1
 terminará em 2019.
 
 * Complemento é compatível com o Python 3.
 
-## Changes for 2.0 - 2017-05-20 ##
+## Alterações para a versão 2.0 - 2017-05-20 ##
 
 * Diálogo da área de notificação/barra de tarefas agora é centralizado na
   tela.
 * Corrigidos diversos problemas de interface com o usuário.
 * Traduções novas e atualizadas.
 
-## Changes for 1.5 - 2015-mm-dd ##
+## Alterações para 1.5 - 2015-mm-dd ##
 
 * Corrigida ação de clique esquerdo/direito.
 * A ajuda do complemento agora está disponível a partir do gestor de
